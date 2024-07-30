@@ -1,0 +1,5 @@
+.terraform*
+tf_key
+tf_key.pub
+terraform.tfstate*
+demo.tf
